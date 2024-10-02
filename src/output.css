@@ -572,6 +572,11 @@ video {
   margin-bottom: 0.75rem;
 }
 
+.my-7 {
+  margin-top: 1.75rem;
+  margin-bottom: 1.75rem;
+}
+
 .mt-10 {
   margin-top: 2.5rem;
 }
@@ -586,6 +591,14 @@ video {
 
 .mt-\[144px\] {
   margin-top: 144px;
+}
+
+.ml-5 {
+  margin-left: 1.25rem;
+}
+
+.ml-\[144px\] {
+  margin-left: 144px;
 }
 
 .flex {
@@ -681,12 +694,20 @@ video {
   padding: 0.5rem;
 }
 
+.text-center {
+  text-align: center;
+}
+
 .font-sans {
   font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 .font-mono {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.font-serif {
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
 .text-3xl {
